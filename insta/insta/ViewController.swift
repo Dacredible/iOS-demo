@@ -1,0 +1,27 @@
+//
+//  ViewController.swift
+//  insta
+//
+//  Created by David Li on 9/4/18.
+//  Copyright © 2018 David Li. All rights reserved.
+//
+
+import UIKit
+import Parse
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+        
+    }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+
+
+}
+
